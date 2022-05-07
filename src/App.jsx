@@ -14,6 +14,8 @@ export default function App() {
         <br />
         <Link to="/page2">Page2</Link>
         <br />
+        <Link to="/xxxx">404ページ</Link>
+        <br />
       </div>
       <Router />
     </BrowserRouter>

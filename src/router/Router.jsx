@@ -4,6 +4,7 @@ import Page2 from "../Page2";
 import page1Routes from "./Page1Routes";
 
 const Router = () => {
+  console.log("Router start");
   return (
     <Switch>
       <Route exact path="/">
